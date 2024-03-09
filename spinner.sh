@@ -3,4 +3,4 @@
 
 ## Spin down
 #kubectl delete deployment --all
-#kubectl delete service db-service; kubectl delete service redis-service; kubectl delete service result-service; kubectl delete service vote-service
+#kubectl delete service db; kubectl delete service redis; kubectl delete service result; kubectl delete service vote
